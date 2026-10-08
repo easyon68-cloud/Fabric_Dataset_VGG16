@@ -188,7 +188,7 @@ silk_012.jpg                   -> SILK       (99.65%)   [<2nd fabric> x.x%, <3rd
 ## 👤 Author
 
 **YOUR NAME**
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [@mohammed asif shethwala](https://github.com/YOUR-USERNAME)
 - LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
 
 If you found this project useful, please consider giving it a ⭐!
